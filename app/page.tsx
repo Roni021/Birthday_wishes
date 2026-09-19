@@ -20,14 +20,14 @@ export default function Home() {
     <>
       <Hero />
       <Countdown />
-      <Gallery />
-      <Timeline />
+      {/* <Gallery /> */}
+      {/* <Timeline /> */}
       <Cake />
       <BirthdayMessage />
       <GiftBox />
       <AmazingCards />
-      <Quiz />
-      <MemoryVideo />
+      {/* <Quiz /> */}
+      {/* <MemoryVideo /> */}
       <OpenWhen />
       <FinalSurprise />
       <PhotoWall />

@@ -63,7 +63,7 @@ export interface BirthdayData {
 
 export const birthdayData: BirthdayData = {
   name: "Roni",
-  birthdayDate: "2026-09-05T00:00:00",
+  birthdayDate: "2026-09-28T00:00:00",
   message:
     "Today isn't just another day. It's a reminder of how special you are and how many beautiful memories you've created for the people lucky enough to know you.",
   messageMore:
