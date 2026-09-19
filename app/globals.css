@@ -93,7 +93,7 @@ h1,h2,h3,h4{font-family:var(--serif);line-height:1.15;}
 .count-box{min-width:92px;padding:20px 8px;border-radius:14px;text-align:center;}
 .count-num{font-family:var(--serif);font-size:clamp(2rem,6vw,3.2rem);color:var(--gold);font-variant-numeric:tabular-nums;}
 .count-label{font-size:.62rem;letter-spacing:.18em;text-transform:uppercase;color:#D8C9EA;margin-top:4px;}
-.today-msg{font-family:var(--serif);font-size:2rem;color:var(--gold);margin-top:10px;display:fixed;text-align:none;} */
+.today-msg{font-family:var(--serif);font-size:2rem;color:var(--gold);margin-top:10px;text-align:center;}
 /* .today-msg{font-family:var(--serif);font-size:2rem;color:var(--gold);margin-top:10px;text-align:center;} */
 /* ============ GALLERY ============ */
 .masonry{column-count:3;column-gap:14px;}
